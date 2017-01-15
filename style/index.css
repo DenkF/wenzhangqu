@@ -1,0 +1,26 @@
+main { padding: 50px 0px; }
+main > div { float: left; }
+main a:hover { color: #14AAFB; }
+.article { width: 800px; }
+.articleSort { width: 100%; border-bottom: 1px solid #bbb; padding-bottom: 5px; overflow: hidden; }
+.articleSort > ul > li { font-size: 21px; float: left; padding-right: 20px; }
+
+.articleTop { width: 380px; padding-left: 20px; }
+.articleList { width: 100%; border-bottom: 1px solid #14AAFB; padding-bottom: 5px; font-size: 21px; }
+.articleTop > ul { line-height: 34px; }
+.articleTop > ul > li { border-top: 1px dashed #888; }
+
+/*.main-content { padding: 0px 30px; }*/
+.main-article { min-height: 120px; margin: 30px 0px; background-color: #fcfcfc; border: 1px solid #eee; overflow: hidden; clear: both; }
+.article-icon { float: left; margin: 10px; }
+.article-icon > img { width: 120px; height: 120px; -webkit-box-shadow: 3px 3px 3px; -moz-box-shadow: 3px 3px 3px; box-shadow: 3px 3px 3px; }
+.article-info { width: 635px; min-height: 120px; float: right; font-size: 13px; margin-right: 20px; }
+.article-info > p { margin: 10px 0px; }
+.article-title { color: #14AAFB; font-size: 15px; }
+.article-details { color: #999; }
+.article-details > a { color: #c66; }
+.article-synopsis { color: #999; }
+
+.article-pages { width: 100%; margin-top: 20px; border-top: 1px dashed #ccc; overflow: hidden; }
+.article-pages > ul { margin-top: 20px; }
+.article-pages > ul > li { width: 35px; height: 35px; line-height: 35px; text-align: center; margin-right: 10px; border: 1px solid #ccc; float: left; }

@@ -22,6 +22,7 @@ ul li { list-style-type: none; }
 
 /* top nav */
 header { width: 100%; height: 46px; border-bottom: 1px solid #14AAFB; }
+/*header a { color: #f9f9f9; }*/
 header > nav { width: 1200px; height: auto; margin: 0 auto; padding: 0 auto; }
 
 header > nav > div, header > nav > ul, header > nav > ul > li { 
