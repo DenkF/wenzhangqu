@@ -24,3 +24,6 @@ main a:hover { color: #14AAFB; }
 .article-pages { width: 100%; margin-top: 20px; border-top: 1px dashed #ccc; overflow: hidden; }
 .article-pages > ul { margin-top: 20px; }
 .article-pages > ul > li { width: 35px; height: 35px; line-height: 35px; text-align: center; margin-right: 10px; border: 1px solid #ccc; float: left; }
+
+.content{ width: 100%; }
+.article-content-title { font-size: 18px; }

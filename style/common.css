@@ -32,6 +32,7 @@ header > nav > div, header > nav > ul, header > nav > ul > li {
 }
 
 header > nav > form { float: right; margin-top: 12px; }
-.topsearch > .toptext { width: 150px; height: 22px; }
+.topsearch > .toptext { width: 200px; height: 22px; }
+.topsubmit { width: 60px; height: 26px; cursor: pointer; }
 
 main { width: 1200px; margin: 0 auto; padding: 0 auto; overflow: hidden; margin-bottom: 120px; }
