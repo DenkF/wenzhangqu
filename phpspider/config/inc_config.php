@@ -5,14 +5,14 @@ $GLOBALS['config']['db'] = array(
     'port'  => 8889,
     'user'  => 'root',
     'pass'  => 'root',
-    'name'  => 'phpspider',
+    'name'  => 'wenzhangqu',
 );
 
 $GLOBALS['config']['redis'] = array(
     'host'      => '127.0.0.1',
     'port'      => 6379,
     'pass'      => '',
-    'prefix'    => 'phpspider',
+    'prefix'    => 'wenzhangqu',
     'timeout'   => 30,
 );
 

@@ -34,7 +34,7 @@ $configs = array(
         //'table' => 'content',
     //),
     'export' => array(
-        'type' => 'db', 
+        'type' => 'db',
         'table' => 'content',
     ),
     'fields' => array(
